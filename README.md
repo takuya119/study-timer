@@ -24,3 +24,5 @@
   しっかりリフレッシュして目標に向けて頑張っていく手助けがしたい。  
 - 画面遷移図  
   [Figma](https://www.figma.com/file/tYcWTrmWhLtdi8Gy5qdrNJ/PF?node-id=0%3A1)
+- ER図
+  [draw](https://drive.google.com/file/d/1l1Ay4yV-Z7kk8lKSALup-G07ZFsFFncQ/view?usp=sharing)
